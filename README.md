@@ -20,7 +20,7 @@ ToDo APP は、HTML・CSS・JavaScriptを使用して開発する、タスクToD
 ・データの保存
 
 ## 起動方法
-`index.html` をブラウザで開いて操作します。
+`index.html` をブラウザで開いて操作します（ターミナルにコマンド「open index.html」を打つ）。
 
 ## 開発状況
 開発中 🚧
