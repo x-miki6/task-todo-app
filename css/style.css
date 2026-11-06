@@ -1,0 +1,15 @@
+.header{
+    background-color: rgb(190, 219, 244);
+
+}
+
+
+.section-title{
+    border-bottom: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
+
+img{
+    width: 100px;
+}
